@@ -8,7 +8,15 @@ A Case Study Project
   divy-tripdata
   https://divvy-tripdata.s3.amazonaws.com/index.html
 ## Tools
-## Project Structure 
+  jupyter notebook | Ms Excel 
+## Project Structure
+  Data
+  - Data Collection
+      ![image](https://github.com/user-attachments/assets/1af92dbf-bb7e-4eb5-98ab-59d422dfdcef)
+
+  - Data Overview
+    excel spread sheets was used in data overview to get he general understanding of the dataset 
+  - 
 ## Data Analysis 
 ## Results 
 ## Recommendations 
