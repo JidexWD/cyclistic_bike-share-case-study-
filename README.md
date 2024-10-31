@@ -42,11 +42,10 @@ A Case Study Project
 
   here we convert the started at column and the ended at column to datetime format
   ![image](https://github.com/user-attachments/assets/426e2e7b-8e36-4c7b-85a4-ef2991a201f8)
-
 ## Data Visualization
-   - python can alaso be used to carry out data visualization    
-      ![output_20_0](https://github.com/user-attachments/assets/67a589cf-6277-4ce5-ac91-dc308ab6f87f)
-     the above image showing rides by hour stats between the casual riders and members
+  - python can alaso be used to carry out data visualization    
+    ![output_20_0](https://github.com/user-attachments/assets/67a589cf-6277-4ce5-ac91-dc308ab6f87f)
+    the above image showing rides by hour stats between the casual riders and members
 
   - Number of rides days of the week stats between the casual and member
     ![output_21_0](https://github.com/user-attachments/assets/96a9c694-269e-4f2c-ba52-29ab254980d3)
