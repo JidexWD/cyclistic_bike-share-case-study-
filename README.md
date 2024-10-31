@@ -15,8 +15,14 @@ A Case Study Project
       ![image](https://github.com/user-attachments/assets/1af92dbf-bb7e-4eb5-98ab-59d422dfdcef)
 
   - Data Overview
-    excel spread sheets was used in data overview to get he general understanding of the dataset 
-  - 
+    excel spread sheets was used in data overview to get he general understanding of the dataset
+    ![image](https://github.com/user-attachments/assets/57e44063-04da-4111-a306-aab84269026e)
+ 
+  - Data Transfromation and Analysis
+    jupyter note book is used to perform the data anlysis because we are using python to analyse this dataset 
+    python gives us a lot of flexibility when handling data
+    ![image](https://github.com/user-attachments/assets/90460f10-0d6b-412a-a79c-08149a6e742e)
+
 ## Data Analysis 
 ## Results 
 ## Recommendations 
